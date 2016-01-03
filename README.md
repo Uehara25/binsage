@@ -1,4 +1,12 @@
 # binsage
 convert ascii string to eight digits' binary number sequence.
 
-now in construction.
+for python3  
+
+#### how to use
+
+python binsage.py hello world  
+> 0110100001100101011011000110110001101111001000000111011101101111011100100110110001100100
+
+python binsage.py -d 0110100001100101011011000110110001101111001000000111011101101111011100100110110001100100
+> hello world
